@@ -1,0 +1,27 @@
+Historia de usuario: la necesidad del usuario en palabras simples.
+
+-Pasos a seguir:
+
+1. Definir el marco (Dominio del proyecto) 
+ -> Qué
+ -> Por qué?
+ -> Cómo?
+
+2. Narrativa que integre la solución en palabras simples
+
+3. A partir de lo anterior, iniciar con la definición de historias de usuario 
+ -> Definir actores directos e indirectos
+ -> Definir relaciones
+ -> Nivel de dificultad de cada historia
+ -> Relaciones implicitas y explicitas
+ -> Descripción puntual de cada historia
+
+4. Definición de casos de uso
+
+5. Definición de sketch por cada caso
+
+6. Balsamiq
+
+7. Frontent
+
+8. Backend - DB
