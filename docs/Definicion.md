@@ -1,7 +1,6 @@
 # Sappiondo
 
-Es un proyecto el cual prentende acercar la academía a la población en general. permitiendo 
-que exista un canal directo entre los ciudadanos  y los academicos. fomentando un acceso a
+Una iniciativa de una red social academica, la cual permitira acercar los diferentes miembros de la comunidad a la academía, permitiendo romper las barreras que se crean socialmente. permitiendo que exista un canal directo entre los ciudadanos  y los academicos. fomentando un acceso a
 los conocimientos en general.
 
 #Por que?
@@ -17,5 +16,9 @@ Soportados en un marco tecnologico (sitio web, APP movil) con el cual presenta u
 *  La respuesta al ser dada por la academia, tiene valor academico.
 
 *  El escalafon de las mejores instituciones segun sus respuestas.
+
+
+#Recuros tecnologicos
+La construccion de la solucion se soporta en **HTML5 y Javascript** para la vista **ruby** para modelo y **PostgreSQL y MongoDB** para la base de datos
 
 
