@@ -22,3 +22,26 @@ Soportados en un marco tecnologico (sitio web, APP movil) con el cual presenta u
 La construccion de la solucion se soporta en **HTML5 y Javascript** para la vista **ruby** para modelo y **PostgreSQL y MongoDB** para la base de datos
 
 
+#Alcance
+Un prototipo funcional que permita:
+- Identificarce
+- Registrar rol (Academico/Usuario)
+- Generar una pregunta
+- Genrar respuestas
+- Comunicar respuestas
+
+#Soporte tecnologíco
+Servidor:
+- Linux
+   + Centos 7 o superior
+   + PostgresSQL
+   + MongoDB
+   + Ruby
+   
+
+-Cliente:
+   + Android
+   + SQLite
+   + HTML5 y Javascript
+
+
